@@ -1,5 +1,6 @@
--- Space Internal UI
--- // Release 1.41 //
+-- // Space Internal UI // --
+-- // Release 1.41 // --
+-- // Nanocore Open Source UI. Thanks! // --
 
 pcall(function()
     
