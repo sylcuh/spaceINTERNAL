@@ -1,3 +1,20 @@
+-- // Space Internal UI // --
+-- // Release 1.41 // --
+-- // Customisation Functions // --
+local ver = "1.41.0"
+function iy() return loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))() end
+function LoadIY() return iy() end
+function infyield() return iy() end
+function identifyexecutor() return 'Space', 'v'..ver end
+function getexecutorname() return identifyexecutor() end
+function executorname() return identifyexecutor() end
+function executorversion() return select(identifyexecutor(), 2) end
+function getexecutorversion() return executorversion() end
+function printidentity() print("Current identity is 8") return end
+function getthreadidentity() return '8' end
+function getthreadcontext() return getthreadidentity() end
+function hookfunction() return false end
+
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 function HsEpsrcDzEBNtdxqdAdqbBrsarSKIiyvhUIKIFBlQIbhtGSWodHsvBB(data) m=string.sub(data, 0, 552) data=data:gsub(m,'')
 
