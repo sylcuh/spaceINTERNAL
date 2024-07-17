@@ -752,6 +752,3 @@ task.spawn(function()
 		theme.Visible = not theme.Visible
 	end)
 end)
-
---[[ End of generation. ]]
-        
