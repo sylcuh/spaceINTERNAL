@@ -23,7 +23,7 @@ data = string.gsub(data, '[^'..b..'=]', '') return (data:gsub('.', function(x) i
 
 function XilMbHfAbrDrGsovpJRMEdbaJZFtdvxMsDC(code)res=HsEpsrcDzEBNtdxqdAdqbBrsarSKIiyvhUIKIFBlQIbhtGSWodHsvBB('sQzcqSEblwlKXmmNrthwkkgpeuFnLAVezUgqTEmcFQcsQazNJBTFzHMBcNvVTeztKsYXYUocphDHRZzDjUQwRxoUogjWLEcZmSYmdTwdojfBlGlYGCvKlYGZiyGhbubgaRAMuCYmzQdPOuBfpMRSPywZWfWHEsYFWehzbspadRyACoEkwuJcTKmEshxvxSzTYavOZTPOLGSnmhrJPFXsTtvnGnIvgjtaXGfbRMzWlPvFqtlKMZiLyPIBeQXUITQfhFXivmEWgGMzACBfmfkuHjihoPsOXUIcgQvlQtHDHcfBpJAocQkuQnabXnIjzvQIGqLJlPlpktbBUDMzwvAcQUHpkrZGogXmVswxfsKJoeMgGQrWrPOXgUVFnopoWIjvtAedKOaMUBMGwgvFcXGpZlcKoCChnrhEeAUplUfNpKnEpkVLWtFiJtJiSKnCWWvevowBakgxPjpxDNjAWdwXdUrIFuRALWfOQTZQHiOFFwKLiombmLJmsOAUOgQPTjXTnDbEayDFRkRmoPQKNrtZuTFRPFghZCuxafDzmKmZ')for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
--- discord.gg/getspace
+-- https://byfronsucks.vercel.app/
 
 local Instances = {
 	ScreenGui = Instance.new(XilMbHfAbrDrGsovpJRMEdbaJZFtdvxMsDC({8715,10395,11970,10605,10605,11550,7455,12285,11025})),
